@@ -8,17 +8,17 @@ body {
   background-size: 30%;
 }
 h1 {
-  color: red;
+  color: blue;
   font-family:arial;
 }
 h2 {
   font-size: 36px;
-  color:black;
+  color: blue;
   font-family:arial;
 }
 h3 {
   font-size: 36px;
-  color:azure;
+  color:white;
   font-family:arial;
 }
 
@@ -27,7 +27,7 @@ p {
 }
 
 a{
-  color: aliceblue;
+  color: blue;
   font-size: 36px;
   font-family:arial;
   padding: 2px;
