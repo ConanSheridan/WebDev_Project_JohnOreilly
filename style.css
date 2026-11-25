@@ -58,6 +58,7 @@ a {
     border: solid;
     background-color: rgba(255, 166, 0, 0.815);
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 
 a:hover {
@@ -93,7 +94,6 @@ footer {
     padding: 15px;
 }
 
-/*PHONES*/
 @media screen and (max-width: 599px) {
     body {
         background-size: 60%;
@@ -138,7 +138,6 @@ footer {
     }
 }
 
-/*TABLETS*/
 @media screen and (min-width: 600px) and (max-width: 1024px) {
     body {
         background-size: 45%;
@@ -178,7 +177,6 @@ footer {
     }
 }
 
-/*DESKTOP*/
 @media screen and (min-width: 1025px) {
     body {
         background-size: 30%;
